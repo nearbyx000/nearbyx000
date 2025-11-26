@@ -3,9 +3,9 @@ std::cout << "Hello world!" ;
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,сpp,linux,raspberrypi,git,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,arch,docker,cpp,py,raspberrypi,vscode" />
   </a>
 </p>
 
