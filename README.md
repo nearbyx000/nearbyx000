@@ -12,7 +12,7 @@ std::cout << "Hello world!" ;
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nearbyx000&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nearbyx000)](https://git.io/streak-stats)
 
 ### 🔭 Current Project
 **[AI Voice Assistant]** — Распределенная система голосового управления (Client-Server).
