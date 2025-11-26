@@ -1,16 +1,27 @@
-## Hi there 👋
+std::cout << "Hello world!" ; 
 
-<!--
-**nearbyx000/nearbyx000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,сpp,linux,raspberrypi,git,docker,vscode&theme=dark" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="150"/>
+</p>
+
+---
+
+### 🔭 Current Project
+**[AI Voice Assistant]** — Распределенная система голосового управления (Client-Server).
+- **Core:** Python, Sockets
+- **AI:** Local LLM (Qwen/Mistral)
+- **Voice:** Vosk & Edge-TTS
+- **Hardware:** Raspberry Pi + NVIDIA GPU Server
